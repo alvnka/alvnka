@@ -8,10 +8,9 @@ I design and ship intelligent software products that make complex technology use
 ## 🚀 About Me
 
 * 🧠 Product‑minded engineer experienced across **Generative AI, full‑stack development, backend systems, and data science**
-* 🏗️ Founder & builder of **Xaidi** — an AI‑powered platform spanning assistants, realtime systems, and mobile/web apps
 * 📱 Full‑stack developer (React Native, Django, MongoDB, Python, modern web tooling)
 * 🔬 Applied ML & simulation enthusiast (deep learning, automation pipelines, scientific computing)
-* 👥 Team lead: hiring, mentoring, and delivering production systems end‑to‑end
+* 👥 Team lead: Mentoring, and delivering production systems end‑to‑end
 
 ---
 
@@ -19,7 +18,7 @@ I design and ship intelligent software products that make complex technology use
 
 ### Intelligent Applications & Platforms
 
-Designing and building AI‑powered and data‑driven software across domains — from assistants and realtime platforms to developer tooling and automation systems.
+Designing and building AI‑powered and data‑driven software across domains — from assistants and real-time platforms to developer tooling and automation systems.
 
 **Key areas:**
 
@@ -33,7 +32,7 @@ Designing and building AI‑powered and data‑driven software across domains �
 ## 🛠️ Tech Stack
 
 **AI / Data:**
-Python · PyTorch · NumPy · Computer Vision · ML pipelines · Generative AI
+Python · PyTorch · NumPy · ML pipelines · Generative AI
 
 **Frontend:**
 React Native · Expo · Web (Vite, React, ESBuild) · Responsive UI systems
